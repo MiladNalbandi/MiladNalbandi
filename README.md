@@ -1,9 +1,4 @@
-```
-$ whoami
-> Milad Nalbandi Rezaei
-> Senior Backend Engineer · Python · PHP · AI engineering
-> Düsseldorf, Germany · English (fluent) · German (B1)
-```
+<img src="./banner.svg" width="100%" alt="Milad Nalbandi Rezaei: Senior Backend Engineer, Python, PHP and AI engineering. Düsseldorf, Germany. English (fluent), German (B1). Open to work.">
 
 [![Website](https://img.shields.io/badge/website-miladnalbandi.com-1f6feb?style=flat-square)](https://miladnalbandi.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-milad--nalbandi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-nalbandi-562281165)
